@@ -1,0 +1,615 @@
+{
+  "verified_cases": 100,
+  "hard_violations": {
+    "overlap": 0,
+    "area": 0,
+    "dimension": 0
+  },
+  "soft_violations": {
+    "grouping": 127,
+    "boundary": 464,
+    "mib": 0
+  },
+  "cases": [
+    {
+      "test_id": 0,
+      "grouping": 1,
+      "boundary": 2,
+      "mib": 0
+    },
+    {
+      "test_id": 1,
+      "grouping": 2,
+      "boundary": 4,
+      "mib": 0
+    },
+    {
+      "test_id": 2,
+      "grouping": 0,
+      "boundary": 2,
+      "mib": 0
+    },
+    {
+      "test_id": 3,
+      "grouping": 1,
+      "boundary": 8,
+      "mib": 0
+    },
+    {
+      "test_id": 4,
+      "grouping": 2,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 5,
+      "grouping": 1,
+      "boundary": 4,
+      "mib": 0
+    },
+    {
+      "test_id": 6,
+      "grouping": 1,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 7,
+      "grouping": 1,
+      "boundary": 2,
+      "mib": 0
+    },
+    {
+      "test_id": 8,
+      "grouping": 0,
+      "boundary": 2,
+      "mib": 0
+    },
+    {
+      "test_id": 9,
+      "grouping": 0,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 10,
+      "grouping": 0,
+      "boundary": 0,
+      "mib": 0
+    },
+    {
+      "test_id": 11,
+      "grouping": 2,
+      "boundary": 6,
+      "mib": 0
+    },
+    {
+      "test_id": 12,
+      "grouping": 2,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 13,
+      "grouping": 1,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 14,
+      "grouping": 0,
+      "boundary": 6,
+      "mib": 0
+    },
+    {
+      "test_id": 15,
+      "grouping": 0,
+      "boundary": 4,
+      "mib": 0
+    },
+    {
+      "test_id": 16,
+      "grouping": 0,
+      "boundary": 5,
+      "mib": 0
+    },
+    {
+      "test_id": 17,
+      "grouping": 0,
+      "boundary": 2,
+      "mib": 0
+    },
+    {
+      "test_id": 18,
+      "grouping": 1,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 19,
+      "grouping": 0,
+      "boundary": 4,
+      "mib": 0
+    },
+    {
+      "test_id": 20,
+      "grouping": 0,
+      "boundary": 2,
+      "mib": 0
+    },
+    {
+      "test_id": 21,
+      "grouping": 2,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 22,
+      "grouping": 1,
+      "boundary": 1,
+      "mib": 0
+    },
+    {
+      "test_id": 23,
+      "grouping": 1,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 24,
+      "grouping": 1,
+      "boundary": 5,
+      "mib": 0
+    },
+    {
+      "test_id": 25,
+      "grouping": 1,
+      "boundary": 5,
+      "mib": 0
+    },
+    {
+      "test_id": 26,
+      "grouping": 0,
+      "boundary": 2,
+      "mib": 0
+    },
+    {
+      "test_id": 27,
+      "grouping": 0,
+      "boundary": 5,
+      "mib": 0
+    },
+    {
+      "test_id": 28,
+      "grouping": 0,
+      "boundary": 2,
+      "mib": 0
+    },
+    {
+      "test_id": 29,
+      "grouping": 1,
+      "boundary": 2,
+      "mib": 0
+    },
+    {
+      "test_id": 30,
+      "grouping": 1,
+      "boundary": 6,
+      "mib": 0
+    },
+    {
+      "test_id": 31,
+      "grouping": 2,
+      "boundary": 5,
+      "mib": 0
+    },
+    {
+      "test_id": 32,
+      "grouping": 1,
+      "boundary": 4,
+      "mib": 0
+    },
+    {
+      "test_id": 33,
+      "grouping": 0,
+      "boundary": 4,
+      "mib": 0
+    },
+    {
+      "test_id": 34,
+      "grouping": 0,
+      "boundary": 4,
+      "mib": 0
+    },
+    {
+      "test_id": 35,
+      "grouping": 0,
+      "boundary": 0,
+      "mib": 0
+    },
+    {
+      "test_id": 36,
+      "grouping": 1,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 37,
+      "grouping": 0,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 38,
+      "grouping": 2,
+      "boundary": 4,
+      "mib": 0
+    },
+    {
+      "test_id": 39,
+      "grouping": 0,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 40,
+      "grouping": 0,
+      "boundary": 4,
+      "mib": 0
+    },
+    {
+      "test_id": 41,
+      "grouping": 0,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 42,
+      "grouping": 0,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 43,
+      "grouping": 0,
+      "boundary": 4,
+      "mib": 0
+    },
+    {
+      "test_id": 44,
+      "grouping": 0,
+      "boundary": 5,
+      "mib": 0
+    },
+    {
+      "test_id": 45,
+      "grouping": 1,
+      "boundary": 0,
+      "mib": 0
+    },
+    {
+      "test_id": 46,
+      "grouping": 1,
+      "boundary": 2,
+      "mib": 0
+    },
+    {
+      "test_id": 47,
+      "grouping": 0,
+      "boundary": 2,
+      "mib": 0
+    },
+    {
+      "test_id": 48,
+      "grouping": 6,
+      "boundary": 7,
+      "mib": 0
+    },
+    {
+      "test_id": 49,
+      "grouping": 3,
+      "boundary": 6,
+      "mib": 0
+    },
+    {
+      "test_id": 50,
+      "grouping": 0,
+      "boundary": 7,
+      "mib": 0
+    },
+    {
+      "test_id": 51,
+      "grouping": 0,
+      "boundary": 6,
+      "mib": 0
+    },
+    {
+      "test_id": 52,
+      "grouping": 0,
+      "boundary": 5,
+      "mib": 0
+    },
+    {
+      "test_id": 53,
+      "grouping": 1,
+      "boundary": 6,
+      "mib": 0
+    },
+    {
+      "test_id": 54,
+      "grouping": 3,
+      "boundary": 7,
+      "mib": 0
+    },
+    {
+      "test_id": 55,
+      "grouping": 3,
+      "boundary": 6,
+      "mib": 0
+    },
+    {
+      "test_id": 56,
+      "grouping": 1,
+      "boundary": 6,
+      "mib": 0
+    },
+    {
+      "test_id": 57,
+      "grouping": 1,
+      "boundary": 5,
+      "mib": 0
+    },
+    {
+      "test_id": 58,
+      "grouping": 2,
+      "boundary": 1,
+      "mib": 0
+    },
+    {
+      "test_id": 59,
+      "grouping": 1,
+      "boundary": 8,
+      "mib": 0
+    },
+    {
+      "test_id": 60,
+      "grouping": 0,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 61,
+      "grouping": 0,
+      "boundary": 7,
+      "mib": 0
+    },
+    {
+      "test_id": 62,
+      "grouping": 2,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 63,
+      "grouping": 0,
+      "boundary": 4,
+      "mib": 0
+    },
+    {
+      "test_id": 64,
+      "grouping": 3,
+      "boundary": 5,
+      "mib": 0
+    },
+    {
+      "test_id": 65,
+      "grouping": 3,
+      "boundary": 5,
+      "mib": 0
+    },
+    {
+      "test_id": 66,
+      "grouping": 1,
+      "boundary": 2,
+      "mib": 0
+    },
+    {
+      "test_id": 67,
+      "grouping": 1,
+      "boundary": 5,
+      "mib": 0
+    },
+    {
+      "test_id": 68,
+      "grouping": 1,
+      "boundary": 5,
+      "mib": 0
+    },
+    {
+      "test_id": 69,
+      "grouping": 6,
+      "boundary": 12,
+      "mib": 0
+    },
+    {
+      "test_id": 70,
+      "grouping": 4,
+      "boundary": 8,
+      "mib": 0
+    },
+    {
+      "test_id": 71,
+      "grouping": 1,
+      "boundary": 0,
+      "mib": 0
+    },
+    {
+      "test_id": 72,
+      "grouping": 2,
+      "boundary": 10,
+      "mib": 0
+    },
+    {
+      "test_id": 73,
+      "grouping": 0,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 74,
+      "grouping": 5,
+      "boundary": 8,
+      "mib": 0
+    },
+    {
+      "test_id": 75,
+      "grouping": 1,
+      "boundary": 10,
+      "mib": 0
+    },
+    {
+      "test_id": 76,
+      "grouping": 2,
+      "boundary": 4,
+      "mib": 0
+    },
+    {
+      "test_id": 77,
+      "grouping": 2,
+      "boundary": 8,
+      "mib": 0
+    },
+    {
+      "test_id": 78,
+      "grouping": 2,
+      "boundary": 5,
+      "mib": 0
+    },
+    {
+      "test_id": 79,
+      "grouping": 0,
+      "boundary": 7,
+      "mib": 0
+    },
+    {
+      "test_id": 80,
+      "grouping": 7,
+      "boundary": 6,
+      "mib": 0
+    },
+    {
+      "test_id": 81,
+      "grouping": 0,
+      "boundary": 5,
+      "mib": 0
+    },
+    {
+      "test_id": 82,
+      "grouping": 6,
+      "boundary": 1,
+      "mib": 0
+    },
+    {
+      "test_id": 83,
+      "grouping": 3,
+      "boundary": 4,
+      "mib": 0
+    },
+    {
+      "test_id": 84,
+      "grouping": 2,
+      "boundary": 2,
+      "mib": 0
+    },
+    {
+      "test_id": 85,
+      "grouping": 1,
+      "boundary": 6,
+      "mib": 0
+    },
+    {
+      "test_id": 86,
+      "grouping": 0,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 87,
+      "grouping": 1,
+      "boundary": 1,
+      "mib": 0
+    },
+    {
+      "test_id": 88,
+      "grouping": 3,
+      "boundary": 11,
+      "mib": 0
+    },
+    {
+      "test_id": 89,
+      "grouping": 3,
+      "boundary": 10,
+      "mib": 0
+    },
+    {
+      "test_id": 90,
+      "grouping": 1,
+      "boundary": 10,
+      "mib": 0
+    },
+    {
+      "test_id": 91,
+      "grouping": 1,
+      "boundary": 11,
+      "mib": 0
+    },
+    {
+      "test_id": 92,
+      "grouping": 0,
+      "boundary": 6,
+      "mib": 0
+    },
+    {
+      "test_id": 93,
+      "grouping": 1,
+      "boundary": 5,
+      "mib": 0
+    },
+    {
+      "test_id": 94,
+      "grouping": 3,
+      "boundary": 3,
+      "mib": 0
+    },
+    {
+      "test_id": 95,
+      "grouping": 0,
+      "boundary": 10,
+      "mib": 0
+    },
+    {
+      "test_id": 96,
+      "grouping": 4,
+      "boundary": 7,
+      "mib": 0
+    },
+    {
+      "test_id": 97,
+      "grouping": 1,
+      "boundary": 5,
+      "mib": 0
+    },
+    {
+      "test_id": 98,
+      "grouping": 2,
+      "boundary": 6,
+      "mib": 0
+    },
+    {
+      "test_id": 99,
+      "grouping": 0,
+      "boundary": 10,
+      "mib": 0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+# Local environment and downloaded official framework/data
+.venv/
+venv/
+FloorSet/
+LiteTensorData/
+LiteTensorDataTest/
+
+# Python and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+tmp/
+.cache/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.codex/
+.agents/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
