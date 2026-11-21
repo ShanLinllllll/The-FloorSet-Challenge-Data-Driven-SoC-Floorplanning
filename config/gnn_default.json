@@ -1,0 +1,5 @@
+{
+  "schema_version": 1,
+  "checkpoint": "models/floorset-lite-gnn-ep47/best.pt",
+  "checkpoint_sha256": "15672107b9ee22683f5b76795a26d849f61e32010b34d703a702ea3b5a0cb344"
+}

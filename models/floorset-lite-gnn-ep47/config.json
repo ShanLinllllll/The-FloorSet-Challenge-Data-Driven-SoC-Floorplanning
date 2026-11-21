@@ -1,0 +1,28 @@
+{
+  "output": "outputs\\full_dataset\\training_seed_17_bs64_e50_20261118_0431",
+  "seed": 17,
+  "epochs": 50,
+  "batch_size": 64,
+  "patience": 51,
+  "lr": 0.0003,
+  "cache": "outputs/full_dataset/data",
+  "generation": 3,
+  "model": {
+    "hidden": 128,
+    "layers": 4,
+    "dropout": 0.1
+  },
+  "parameters": 431303,
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "torch": "2.7.1+cu128",
+  "amp": "float16 forward, FP32 loss and geometry",
+  "threads": 1,
+  "cache_manifest_sha256": "f7ad048cc55c89e353caec60c22673f5b820277b64b08c5e0cfe032bd9ecfdf0",
+  "source_hashes": {
+    "gnn_pilot\\data.py": "0043c437fe09f474623090344a5375b0fb2106dad6f62538fdbeb26be2b8c220",
+    "gnn_pilot\\model.py": "62769bb9b670a02748f9b241f91689d77c9f06def86fa96bc9015d1bf54a1fde",
+    "scripts\\train_gnn_pilot.py": "ef78b444e73822732b7c425eb9d1ed5b9e1568109fa5fe1636b71c68c0533bf0",
+    "scripts\\train_gnn_pilot_v3.py": "5fb5db6900ebb51d34ca02871e59a68c399b589a8f8cdac1fd0f2b0445484883"
+  },
+  "checkpoint_note": "last.pt atomically stores optimizer, scheduler, scaler, RNG, history and best weights; best.pt is an inference checkpoint."
+}

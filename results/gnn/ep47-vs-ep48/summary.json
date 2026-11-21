@@ -1,0 +1,95 @@
+{
+  "cases": 100,
+  "rechecked_layouts": 200,
+  "rescore_mismatches": 0,
+  "full47": {
+    "weighted_cost": 3.2635151632860464,
+    "feasible": 100,
+    "mean_runtime_s": 1.9834593829963705,
+    "p95_runtime_s": 2.0215291899847214,
+    "max_runtime_s": 2.0368369999923743,
+    "over_2s": 97,
+    "mean_inference_ms": 16.746647999389097,
+    "stage_costs": {
+      "legalization": 3.7102765835992813,
+      "lp": 3.6650709955352596,
+      "sa": 3.2635151632860464
+    }
+  },
+  "subset48": {
+    "weighted_cost": 3.321051082090003,
+    "feasible": 100,
+    "mean_runtime_s": 1.9934682210005121,
+    "p95_runtime_s": 2.021678285000962,
+    "max_runtime_s": 2.028504099987913,
+    "over_2s": 98,
+    "mean_inference_ms": 16.12412199843675,
+    "stage_costs": {
+      "legalization": 3.803809913638318,
+      "lp": 3.7726377452184674,
+      "sa": 3.321051082090003
+    }
+  },
+  "wins_full47": 54,
+  "wins_subset48": 46,
+  "ties": 0,
+  "weighted_cost_drop": 0.05753591880395659,
+  "improvement_percent": 1.7324611209457248,
+  "by_block_count": [
+    {
+      "blocks": [
+        21,
+        40
+      ],
+      "full47_wins": 11,
+      "cases": 20,
+      "full47_cost": 2.2211210859201764,
+      "subset48_cost": 2.3395609573372997,
+      "improvement_percent": 5.062482815233934
+    },
+    {
+      "blocks": [
+        41,
+        60
+      ],
+      "full47_wins": 12,
+      "cases": 20,
+      "full47_cost": 2.5804577962425306,
+      "subset48_cost": 2.612979185144527,
+      "improvement_percent": 1.2446095662334031
+    },
+    {
+      "blocks": [
+        61,
+        80
+      ],
+      "full47_wins": 9,
+      "cases": 20,
+      "full47_cost": 2.8989803306250304,
+      "subset48_cost": 2.90101922324594,
+      "improvement_percent": 0.07028194106995707
+    },
+    {
+      "blocks": [
+        81,
+        100
+      ],
+      "full47_wins": 12,
+      "cases": 20,
+      "full47_cost": 3.083282329162438,
+      "subset48_cost": 3.154373997854852,
+      "improvement_percent": 2.2537488814186455
+    },
+    {
+      "blocks": [
+        101,
+        120
+      ],
+      "full47_wins": 10,
+      "cases": 20,
+      "full47_cost": 3.316490151951102,
+      "subset48_cost": 3.3735365590137634,
+      "improvement_percent": 1.690997149867519
+    }
+  ]
+}

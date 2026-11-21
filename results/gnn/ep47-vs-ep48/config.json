@@ -1,0 +1,39 @@
+{
+  "solver_config": {
+    "max_seconds": 2.0,
+    "seed": 42,
+    "lp_passes": 2,
+    "sa_steps": 2400,
+    "stagnation_steps": 250,
+    "second_initialization": true
+  },
+  "checkpoints": {
+    "full47": {
+      "path": "outputs/full_dataset/training_seed_17_bs64_e50_20261118_0431/best.pt",
+      "sha256": "15672107b9ee22683f5b76795a26d849f61e32010b34d703a702ea3b5a0cb344",
+      "epoch": 47
+    },
+    "subset48": {
+      "path": "outputs/fullcoverage_ext/training_seed_17/best.pt",
+      "sha256": "3e3eb072ad264eb9faebf5b5f478769565530447d73fe5b3ab339fce295519fe",
+      "epoch": 48
+    }
+  },
+  "source_sha256": {
+    "baseline_optimizer.py": "14ecd78018b2b85cd6ac9dee371c1ee39e5381dbcc25329fe5d397ba2df2e8ea",
+    "baseline_solver/core.py": "0c91671d0dc0b809e4265fdfeb691ff19d2bc35bead20f497e16791023be74b1",
+    "baseline_solver/search.py": "f9e60b795ac76e6e0246045068bb8bd61c906d0ce2dc6c48237e9344359450a4",
+    "gnn_optimizer.py": "073072bb31f39cb21130bbcd2e42d024e33099c6e988ffeeee9b91f56d65f320",
+    "gnn_pilot/data.py": "0043c437fe09f474623090344a5375b0fb2106dad6f62538fdbeb26be2b8c220",
+    "gnn_pilot/model.py": "62769bb9b670a02748f9b241f91689d77c9f06def86fa96bc9015d1bf54a1fde",
+    "gnn_pilot/checkpoints.py": "cabdd7a1c2c42d8f2331f4eef335ec1e5713e4b26150cba80c382224ff3d137b",
+    "scripts/floorset_io.py": "f9921029760516436cf8786786bd0fcb1d7e0ec2ed2b38e9a7f5687b7ca17ce2",
+    "scripts/compare_gnn_pilot.py": "876e642f514d1682f71ff194797ae8257362caa445ab272a6cb0db753b99c803",
+    "FloorSet/iccad2026contest/iccad2026_evaluate.py": "64db37865b42baf11add62bdbf035690dca086cd4be7b5b4e58db756f20d8498"
+  },
+  "runner_sha256": "81e192be6d589d6d5785868098e4472076c85742d1d406a9517f89f6ac795052",
+  "runtime_factor": 1,
+  "device": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "torch": "2.7.1+cu128",
+  "threads": 1
+}

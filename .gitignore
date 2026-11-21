@@ -25,3 +25,8 @@ tmp/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Local GNN experiment data
+/outputs/
+/downloads/
+.ruff_cache/
